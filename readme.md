@@ -25,12 +25,12 @@ updated HTML and CSS powered by JavaScript code.
 
 ## Technologies Used
 
-Javascript
-style.css
-HTML
+*Javascript
+*style.css
+*HTML
 
 
-Acceptance Criteria
+## Acceptance Criteria
 
  I am taking a code quiz
 
@@ -45,7 +45,7 @@ THe questions are answered or the timer reaches 0
 
 
 
-Mock-Up
+## Mock-Up
 
 
 The following image illustrates the application's features:
