@@ -1,6 +1,6 @@
 # 04 Web APIs: Code Quiz
 
-Both of the following are submitted:
+Both urls are submitted as follows:
 
 
 The URL of the deployed application, https://elphinhote.github.io/superquiz/
