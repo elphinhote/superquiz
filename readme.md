@@ -1,5 +1,16 @@
 04 Web APIs: Code Quiz
 
+Both of the following are submitted:
+
+
+The URL of the deployed application, https://elphinhote.github.io/superquiz/
+
+
+and the URL of the GitHub repository, https://github.com/elphinhote/superquiz/
+
+
+The repository is given a unique name and includes a README describing the project.
+
 
  Task
  
@@ -51,15 +62,5 @@ What I've Learned:
 I've learned more about using JavaScript, and learning how to debug codes.
 
 
-Both of the following are submitted for review:
-
-
-The URL of the deployed application, https://elphinhote.github.io/superquiz/
-
-
-and the URL of the GitHub repository, https://github.com/elphinhote/superquiz/
-
-
-The repository is given a unique name and includes a README describing the project.
 
 
