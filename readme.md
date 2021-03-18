@@ -12,7 +12,7 @@ and the URL of the GitHub repository, https://github.com/elphinhote/superquiz/
 ## The repository is given a unique name and includes a README describing the project.
 
 
- Task
+## Task
  
  
 Develop a multiple-choice questions and interactive timed coding quiz and 
@@ -25,9 +25,11 @@ updated HTML and CSS powered by JavaScript code.
 
 ## Technologies Used
 
-*Javascript
-*style.css
-*HTML
+* Javascript
+
+* style.css
+
+* HTML
 
 
 ## Acceptance Criteria
