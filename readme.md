@@ -9,8 +9,6 @@ The URL of the deployed application, https://elphinhote.github.io/superquiz/
 and the URL of the GitHub repository, https://github.com/elphinhote/superquiz/
 
 
-## The repository is given a unique name and includes a README describing the project.
-
 
 ## Task
  
