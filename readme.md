@@ -9,7 +9,7 @@ The URL of the deployed application, https://elphinhote.github.io/superquiz/
 and the URL of the GitHub repository, https://github.com/elphinhote/superquiz/
 
 
-The repository is given a unique name and includes a README describing the project.
+## The repository is given a unique name and includes a README describing the project.
 
 
  Task
@@ -27,18 +27,16 @@ updated HTML and CSS powered by JavaScript code.
 
 Acceptance Criteria
 
+ I am taking a code quiz
 
-GIVEN I am taking a code quiz
+A timer starts and I am presented with 5 JavaScript related questions
 
-THEN a timer starts and I am presented with 5 JavaScript related questions
+I answer a question, I press a radio button corresponding to the answer from the multiple choices
 
-WHEN I answer a question, I press a radio button corresponding to the answer from the multiple choices
+The questions are all answered, I submit them all together for a score.
 
-WHEN the questions are all answered, I submit them all together for a score.
+THe questions are answered or the timer reaches 0
 
-WHEN all questions are answered or the timer reaches 0
-
-THEN the game is quiz over
 
 
 
